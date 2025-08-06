@@ -1,5 +1,4 @@
 import { UserData } from '../data/UserData';
-import fetch from 'node-fetch';
 
 export abstract class DataExporter {
   protected data: UserData[] = [];
