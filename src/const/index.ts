@@ -1,0 +1,1 @@
+export const EXPORTS_PATH = './dist';
